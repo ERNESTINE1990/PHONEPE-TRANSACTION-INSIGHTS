@@ -83,7 +83,6 @@ Github Repository Link: https://github.com/PhonePe/pulse
 
 * Major urban districts like Bangalore Urban, Mumbai Suburban, and Hyderabad see very high per capita transaction rates.
 
-* Some Tier 2 and Tier 3 cities are showing rapid growth (~25%-30% YoY), indicating increasing digital adoption.
 
 4. Categories of Transactions:
 
