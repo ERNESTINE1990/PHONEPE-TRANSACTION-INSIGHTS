@@ -56,9 +56,6 @@ Github Repository Link: https://github.com/PhonePe/pulse
 * Power BI
 
 
-* Tableau 
-
-
 * Data Visualization
 
 
